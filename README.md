@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+César+Rodrigues;I'm+21+years+old;I'm+from+Brazil;I+Graduating+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+C%C3%A9sar+Rodrigues%3B+I'm+21+years+old%3B+I'm+from+Brazil%3B+I'm+Graduating+in+Systems+Development%3B+Welcome!+%3A%29)](https://git.io/typing-svg)
+
 
 
 # Console.WriteLine("Olá, aqui é o César"); 💻🖱
